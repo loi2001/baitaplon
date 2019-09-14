@@ -1,1 +1,2 @@
-print('hello world')
+ten=input("xin moi nhap ten:")
+print("hello",ten)
